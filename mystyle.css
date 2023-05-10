@@ -1,0 +1,740 @@
+/*page 1*/
+body {
+    background-color: #fbf3f3;
+}
+
+/*home's logo*/
+.a {
+    position: absolute;
+    width: 115px;
+    height: 207px;
+    margin-left: 659px;
+    margin-top: 53px;
+    mix-blend-mode: multiply;
+}
+
+/*logo*/
+.a1 {
+    position: absolute;
+    width: 89px;
+    height: 159px;
+    left: 36px;
+    top: 15px;
+
+    background: url(image.png);
+    mix-blend-mode: multiply;
+}
+
+/*home's star*/
+.b {
+    width: 70px;
+    height: 67px;
+    position: absolute;
+}
+
+/*star*/
+.b1 {
+    position: absolute;
+    width: 34.35px;
+    height: 32.27px;
+}
+
+
+
+.c {
+    /* HOME in first page */
+
+    position: absolute;
+    width: 324px;
+    height: 117px;
+    margin-left: 296px;
+    margin-top: 234px;
+
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+
+    color: #E894B9;
+
+}
+
+/*about*/
+.d {
+    /* ABOUT in first page*/
+
+    position: absolute;
+    width: 407px;
+    height: 117px;
+    margin-left: 770px;
+    margin-top: 229px;
+
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+
+    color: #E894B9;
+
+
+
+}
+
+.e {
+    /*work in first page*/
+    position: absolute;
+    width: 344px;
+    height: 120px;
+    margin-left: 209px;
+    margin-top: 336px;
+
+
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+
+    color: #E894B9;
+
+}
+
+.f {
+    /* CONTACT in */
+
+
+    position: absolute;
+    width: 560px;
+    height: 120px;
+    margin-left: 699px;
+    margin-top: 330px;
+
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 110px;
+
+    color: #E894B9;
+
+}
+
+.g {
+    /* hand*/
+    position: absolute;
+    width: 825px;
+    height: 634px;
+    left: 0px;
+    top: 473px;
+}
+
+
+.h {
+    /* ZIZI’S WORLD */
+    left: 98.4;
+    top: 835px;
+    position: absolute;
+    width: 204.4px;
+    height: 64.87px;
+
+    font-family: 'Freestyle Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+
+    transform: matrix(0.56, 0.83, -0.81, 0.58, 0, 0);
+
+}
+
+.i {
+    /* WELCOME */
+    position: absolute;
+    left: 11.67%;
+    right: 22.15%;
+    top: 985px;
+    bottom: 4.46%;
+
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+
+    color: #E894B9
+}
+
+.person {
+    /* person */
+    position: absolute;
+    width: 467px;
+    height: 442.8px;
+    left: 941px;
+    top: 684px
+}
+
+.yabout {
+    /* yellow about */
+    position: absolute;
+    width: 98px;
+    height: 54px;
+    margin-left: 1115px;
+    margin-top: 1046px;
+    font-family: 'Forte';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+
+    color: #FFF200;
+}
+
+/*page 2*/
+
+.j {
+    /* home */
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    margin-left: 593.47px;
+    margin-top: 15px;
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.k {
+    /* work */
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    margin-left: 792px;
+    margin-top: 15px;
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.l {
+    /* about*/
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    margin-left: 992.67px;
+    margin-top: 15px;
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+
+    color: #000000;
+}
+
+.m {
+    /* contact*/
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    margin-left: 1208px;
+    margin-top: 15px;
+    font-family: 'Cooper Black';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+
+    color: #000000;
+}
+
+.mywork {
+    /* MYWORK */
+    position: absolute;
+    margin-left: 516px;
+    margin-top: 159px;
+
+    font-family: 'Elephant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+
+
+
+    color: #E481AE;
+}
+
+.workpig {
+    /* workpig */
+    position: absolute;
+    width: 462px;
+    height: 321px;
+    left: 494px;
+    top: 230px;
+}
+
+
+.box {
+    /* box */
+    position: absolute;
+    width: 445px;
+    height: 445px;
+    background: #FFD6D6;
+}
+
+
+.img1 {
+    /* colourvotex img */
+    position: absolute;
+    width: 394px;
+    height: 387px;
+    left: 58px;
+    top: 203px;
+}
+
+
+.img2 {
+    /* bnw img */
+    position: absolute;
+    width: 444px;
+    height: 319px;
+    left: 508px;
+    top: 586px;
+
+    background: url(image.png);
+}
+
+
+.img3 {
+    /* legofont img */
+    position: absolute;
+    width: 332px;
+    height: 443px;
+    left: 1025px;
+    top: 178px;
+
+    background: url(image.png);
+}
+
+
+.p2f {
+    /* page2 forte font */
+    font-family: 'Forte';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+
+    color: #E894B9;
+}
+
+
+.p2i {
+    /* page2 inter font */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+
+
+.p2ic1 {
+    /* page work ins icon*/
+    position: absolute;
+    margin-left: 34px;
+    margin-top: 1105px;
+    background: url(image);
+}
+
+
+.p2ic2 {
+    /* page work fb icon*/
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 1109px;
+    background: url(image.png);
+}
+
+
+.p2ic3 {
+    /* page work ws icon*/
+    position: absolute;
+    margin-left: 269px;
+    margin-top: 1101px;
+    background: url(image.png);
+}
+
+
+.p2ic4 {
+    /* page work email icon*/
+    position: absolute;
+    margin-left: 393px;
+    margin-top: 1110px;
+
+    background: url(image.png);
+}
+
+
+/* page 3*/
+.bt {
+    /*each page biaoti*/
+    font-family: 'Elephant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+
+    color: #E78EB6;
+}
+
+.bi {
+    /*big info*/
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.si {
+    /*big info*/
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.cwi {
+    /*colourfulpage img size*/
+    position: absolute;
+    width: 439px;
+    height: 410px;
+}
+
+.cwit {
+    /*colourfulpage img tittle*/
+    position: absolute;
+    font-family: 'Forte';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: right;
+
+    color: #E894B9;
+}
+
+.p3ic1 {
+    /* page colourfulpage ins icon*/
+    position: absolute;
+    margin-left: 34px;
+    margin-top: 2316px;
+
+    background: url(image);
+}
+
+
+.p3ic2 {
+    /* page colourfulpage fb icon*/
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 2320px;
+
+    background: url(image.png);
+}
+
+
+.p3ic3 {
+    /* page colourfulpage  ws icon*/
+    position: absolute;
+    margin-left: 269px;
+    margin-top: 2310px;
+
+    background: url(image.png);
+}
+
+
+.p3ic4 {
+    /* page colourfulpage  email icon*/
+    position: absolute;
+    margin-left: 393px;
+    margin-top: 2320px;
+
+    background: url(image);
+}
+
+
+/* page 4*/
+.p4ic1 {
+    /* page bnw page ins icon*/
+    position: absolute;
+    margin-left: 34px;
+    margin-top: 3436px;
+
+    background: url(image);
+}
+
+
+.p4ic2 {
+    /* page bnw page  fb icon*/
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 3440px;
+
+    background: url(image.png);
+}
+
+
+.p4ic3 {
+    /* page bnw page  ws icon*/
+    position: absolute;
+    margin-left: 269px;
+    margin-top: 3430px;
+
+    background: url(image.png);
+}
+
+
+.p4ic4 {
+    /* page bnw page   email icon*/
+    position: absolute;
+    margin-left: 393px;
+    margin-top: 3440px;
+
+    background: url(image);
+}
+
+/* page 5*/
+
+.fpiml {
+    /* design font page left img*/
+    position: absolute;
+    margin-left: 48px;
+}
+
+
+.fpimr {
+    /* design font page right img*/
+    position: absolute;
+    margin-left: 977px;
+}
+
+
+.fppa {
+    /* design font page pink arrow*/
+    position: absolute;
+    margin-left: 485px;
+}
+
+.fpimt {
+    /* design font page image's tittle position*/
+    position: absolute;
+    margin-left: 559px;
+    text-align: center;
+}
+
+.fpimfo {
+    /* design font page image's tittle info position*/
+    position: absolute;
+    margin-left: 530px;
+}
+
+.p5ic1 {
+    /* page design font page ins icon*/
+    position: absolute;
+    margin-left: 34px;
+    margin-top: 3448px;
+
+    background: url(image);
+}
+
+
+.p5ic2 {
+    /* page design font page  fb icon*/
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 3453px;
+
+    background: url(image.png);
+}
+
+
+.p5ic3 {
+    /* page design font page  ws icon*/
+    position: absolute;
+    margin-left: 269px;
+    margin-top: 3443px;
+
+    background: url(image.png);
+}
+
+
+.p5ic4 {
+    /* page design font page  email icon*/
+    position: absolute;
+    margin-left: 393px;
+    margin-top: 3453px;
+
+    background: url(image);
+}
+
+/* page 6*/
+.yzi {
+    /* yanzi image size*/
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 443px;
+    height: 491px;
+    left: 154px;
+    top: 727px;
+
+    background: url(image.png);
+    border: 1px solid #231F20;
+    border-radius: 69px;
+}
+
+.p6ic1 {
+    /* about page ins icon*/
+    position: absolute;
+    margin-left: 34px;
+    margin-top: 1248px;
+
+    background: url(image);
+}
+
+
+.p6ic2 {
+    /* about page  fb icon*/
+    position: absolute;
+    margin-left: 159px;
+    margin-top: 1250px;
+
+    background: url(image.png);
+}
+
+
+.p6ic3 {
+    /* about page  ws icon*/
+    position: absolute;
+    margin-left: 269px;
+    margin-top: 1242px;
+
+    background: url(image.png);
+}
+
+
+.p6ic4 {
+    /* about page   email icon*/
+    position: absolute;
+    margin-left: 393px;
+    margin-top: 1253px;
+
+    background: url(image);
+}
+
+/*page 7*/
+.formt {
+    /* contact page form tittle*/
+    position: absolute;
+    font-family: 'Forte';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: right;
+
+    color: #E894B9;
+}
+
+.contactpig {
+    /* contact page pig*/
+    position: absolute;
+    width: 432px;
+    height: 426px;
+    left: 875px;
+    top: 716px;
+}
+
+.p7ic1 {
+    /* page contact  page  INS icon*/
+    position: absolute;
+    width: 199px;
+    height: 172px;
+    left: 144px;
+    top: 232px;
+    
+    background: url(image.png);}
+
+
+.p7ic2 {
+    /* page contact  page  fb icon*/
+    position: absolute;
+    width: 158px;
+    height: 158px;
+    left: 166px;
+    top: 468px;
+    
+    background: url(image.png);
+}
+
+
+.p7ic3 {
+    /* page contact page  ws icon*/
+    position: absolute;
+    width: 196px;
+    height: 196px;
+    left: 149px;
+    top: 690px;
+    
+    background: url(image.png);
+}
+
+
+.p7ic4 {
+    /* page contact  page email icon*/
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 159px;
+    top: 950px;
+    
+    background: url(image.png);
+}
+
+.contacticoninfo{/* page contact  page icon info*/
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.linkpage{text-decoration: none;}
